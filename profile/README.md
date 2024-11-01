@@ -1,4 +1,4 @@
-## Hi there 👋
+## BrandPipe in a nutshell
 
 We are a UK-tax paying, founder/employee-owned, debt-free group of software and technology companies trading since 2013. Our specialism is creating and operating strategically-important custom systems, and we turn our hand to diverse needs all the time.
 
